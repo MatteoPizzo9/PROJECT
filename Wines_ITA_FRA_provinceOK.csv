@@ -1,4 +1,4 @@
-﻿Vintage,Country,County,Designation,Points,Price,Province,Winery
+Vintage,Country,County,Designation,Points,Price,Province,Winery
 1929,Italy,Sangiovese di Romagna Superiore,Prugneto,84,15 ,Central Italy,Poderi dal Nespoli 1929
 1945,France,Rivesaltes,Legend Vintage,95,350 ,Languedoc Roussillon,Gérard Bertrand
 1989,France,Champagne,Diamant Bleu,91,70 ,Champagne,Heidsieck & Co Monopole
@@ -439,7 +439,6 @@
 2006,Italy,Colli Orientali del Friuli,Riesling,85,22 ,Northeastern Italy,Aquila del Torre
 2006,Italy,Barbaresco,Tulin,92,69 ,Northwestern Italy,Pelissero
 2006,Italy,Brunello di Montalcino,Riserva,94,75 ,Central Italy,Collosorbo
-,,,,,,,
 2006,Italy,Colli Orientali del Friuli,Pinot Bianco,86,25 ,Northeastern Italy,Scubia
 2006,Italy,Vernaccia di San Gimignano,Vigna Santa Margherita,86,17 ,Central Italy,Panizzi
 2006,France,Vin de Pays du Val de Cesse,Cariñu,87,15 ,Languedoc Roussillon,Château Cabezac
